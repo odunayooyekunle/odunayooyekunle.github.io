@@ -1,0 +1,145 @@
+h1{
+   font-size: 90px;
+   font-family: 'Lucida Sans';
+   background: rgba(blue);
+   margin-top: 10px;
+   line-height: 120px;
+   padding: 5px;
+   
+}
+
+h2{ 
+   font-size: 50px;
+   font-family: unset;
+   background: rgba(blue);
+   background-color:rgba(235, 79, 235, 0.61);
+   line-height: 50px;
+   border-radius: 1900px;	
+   padding: 50px;
+   box-shadow: 0px 5px 5px 0 rgba(0,0,0);
+   
+}
+
+
+
+
+
+header{
+   background-image: url("22.png");
+   background-size: cover;
+   height: 170px;	
+   box-shadow: 0px 5px 5px 0 rgba(0,0,0) 
+}
+
+body {
+   margin: 0;
+   margin-top: -42px;
+   margin-bottom: -50px;
+   font-family: fantasy;
+   text-align: center;
+   background-image: url("11.jpg");
+   background-size: contain;
+}
+   
+   
+
+p {
+   font-size: 25px;
+   line-height:40px;	
+   color: rgba(5, 0, 0, 0.952);
+}
+
+ul li{
+   display: inline-block;
+   margin:0;
+   padding: 0;
+}
+
+
+.container {
+   text-align: center;
+   padding: 20px; 
+}
+
+.logo {
+	width: 100px;
+	height: 100px;
+		 
+}
+	
+
+.blue-container { 
+   width:100%;
+   background: rgba(23, 138, 214, 0.61);
+   color:rgb(25, 10, 235);
+   margin-top: 2%;
+   padding: 2px 5px;
+   border-radius: 90px;		
+   box-shadow: 0px 5px 5px 0 rgba(0,0,0)
+}
+
+.red-container { 
+   width:100%;
+   background: rgba(253, 5, 5, 0.767);
+   margin-top: 2%;
+   padding: 2px 5px;
+   border-radius: 90px;	
+   box-shadow: 0px 5px 5px 0 rgba(0,0,0)	
+}
+
+.green-container { 
+   width:100%;
+   background: rgba(9, 231, 38, 0.61);
+   margin-top: 2%;
+   padding: 2px 5px;
+   border-radius: 90px;		
+   box-shadow: 0px 5px 5px 0 rgba(0,0,0)
+}
+
+.closing{
+   background-image: url(ss.jpg);
+   font-size: 40px;
+   
+   
+}
+
+h4{font-size: 45px;
+   font-family: 'Times New Roman', Times, serif;
+   color: rgb(0, 0, 0);
+   box-shadow: 6px 0px 8px 6px rgba(0,0,0);
+   
+   
+}
+
+
+
+img { 
+   border-radius: 30px;
+   margin-top: 20px;
+   line-height: 20%;
+   box-shadow: 6px 10px 8px 6px rgba(0,0,0);
+   background-color: rgba(4, 193, 250, 0.705);
+   
+}
+
+header nav ul li a {
+   padding-right: 50px;
+   font-weight:bold;
+   color:rgb(241, 19, 19);
+   transition: all .3s ;
+}
+
+header  nav ul li a:hover{
+   text-decoration:none;
+   color: rgb(65, 134, 225);
+}
+
+
+
+
+
+   
+
+
+	
+
